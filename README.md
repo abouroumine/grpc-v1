@@ -1,5 +1,6 @@
 # grpc-v1
 Basic Application that shows the implementation of gRPC Communication Protocol in Go.
+we use in this example a simple uniry Communication style between the Server <=> Client.
 
 # Steps
 1- We start by implementing the Service we want in the (.proto) file.
